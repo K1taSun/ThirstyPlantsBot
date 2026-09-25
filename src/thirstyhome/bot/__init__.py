@@ -1,0 +1,1 @@
+"""ThirstyHome bot package."""

@@ -9,10 +9,10 @@ Plants remind you to water them, chat with you and your roommates, and help figu
 -  Plant profiles with a care "passport"
 -  Species recognition from a photo
 -  Shared homes with roommates
--  Talk to your plants (AI)
+-  Talk to your plants
 
 ## Stack
-Python · aiogram 3 · PostgreSQL/SQLite · APScheduler · free-tier AI APIs
+Python · aiogram 3 · PostgreSQL/SQLite · APScheduler
 
 ## Status
 Early planning. 
